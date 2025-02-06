@@ -1,0 +1,1538 @@
+[
+    {
+        "Week":"Week 1",
+        "Day":"Day 1",
+        "Exercise":"Chest Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 1",
+        "Exercise":"Tricep Skull Crushers",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 1",
+        "Exercise":"Chest Fly",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 1",
+        "Exercise":"Triceps Press",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 1",
+        "Exercise":"Rotating Chest Press",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 1",
+        "Exercise":"Decline Press",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 1",
+        "Exercise":"Single Side Crushers",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 1",
+        "Exercise":"Tricep Kickbacks",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 2",
+        "Exercise":"Wide Row",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 2",
+        "Exercise":"Wide Curl",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 2",
+        "Exercise":"Traditional Row",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 2",
+        "Exercise":"Hammer Curl",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 2",
+        "Exercise":"Pullover",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 2",
+        "Exercise":"Top Curl",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 2",
+        "Exercise":"Reverse Fly",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 2",
+        "Exercise":"Bottom Curl",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 2",
+        "Exercise":"Full Curl",
+        "Sequence":"9C"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 3",
+        "Exercise":"Upright Row",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 3",
+        "Exercise":"Front Raise",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 3",
+        "Exercise":"Lateral Raise",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 3",
+        "Exercise":"Y Raise",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Fly",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 3",
+        "Exercise":"Swimmers",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 4",
+        "Exercise":"Front Loaded Squat",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 4",
+        "Exercise":"Deadlift",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 4",
+        "Exercise":"Goblet Sumo",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 4",
+        "Exercise":"Reverse Alternate Lunge",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 4",
+        "Exercise":"Bridge",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 4",
+        "Exercise":"Calf Raise",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 4",
+        "Exercise":"Alternate Side Lunge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 1",
+        "Day":"Day 4",
+        "Exercise":"Pulsing Squat",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 1",
+        "Exercise":"Decline Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 1",
+        "Exercise":"Tricep Skull Crushers",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 1",
+        "Exercise":"Rotating Chest Press",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 1",
+        "Exercise":"Single Side Crushers",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 1",
+        "Exercise":"Chest Press",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 1",
+        "Exercise":"Triceps Press",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 1",
+        "Exercise":"Chest Fly",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 1",
+        "Exercise":"Tricep Kickbacks",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 2",
+        "Exercise":"Traditional Row",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 2",
+        "Exercise":"Reverse Fly",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 2",
+        "Exercise":"Wide Row",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 2",
+        "Exercise":"Hammer Curl",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 2",
+        "Exercise":"Full Curl",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 2",
+        "Exercise":"Wide Curl",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 2",
+        "Exercise":"Pullover",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 2",
+        "Exercise":"Top Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 2",
+        "Exercise":"Bottom Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 3",
+        "Exercise":"Lateral Raise",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Press",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 3",
+        "Exercise":"Front Raise",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Fly",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 3",
+        "Exercise":"Y Raise",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 3",
+        "Exercise":"Upright Row",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 3",
+        "Exercise":"Swimmers",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 4",
+        "Exercise":"Front Loaded Squat",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 4",
+        "Exercise":"Goblet Sumo",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 4",
+        "Exercise":"Deadlift",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 4",
+        "Exercise":"Calf Raise",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 4",
+        "Exercise":"Alternate Side Lunge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 4",
+        "Exercise":"Bridge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 4",
+        "Exercise":"Pulsing Squat",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 2",
+        "Day":"Day 4",
+        "Exercise":"Reverse Alternate Lunge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 1",
+        "Exercise":"Chest Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 1",
+        "Exercise":"Chest Fly",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 1",
+        "Exercise":"Rotating Chest Press",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 1",
+        "Exercise":"Tricep Kickbacks",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 1",
+        "Exercise":"Tricep Skull Crushers",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 1",
+        "Exercise":"Decline Press",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 1",
+        "Exercise":"Triceps Press",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 1",
+        "Exercise":"Single Side Crushers",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 2",
+        "Exercise":"Pullover",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 2",
+        "Exercise":"Top Curl",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 2",
+        "Exercise":"Reverse Fly",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 2",
+        "Exercise":"Bottom Curl",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 2",
+        "Exercise":"Wide Row",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 2",
+        "Exercise":"Wide Curl",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 2",
+        "Exercise":"Traditional Row",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 2",
+        "Exercise":"Hammer Curl",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 2",
+        "Exercise":"Full Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 3",
+        "Exercise":"Front Raise",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 3",
+        "Exercise":"Upright Row",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 3",
+        "Exercise":"Lateral Raise",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Press",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Fly",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 3",
+        "Exercise":"Swimmers",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 3",
+        "Exercise":"Y Raise",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 4",
+        "Exercise":"Goblet Sumo",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 4",
+        "Exercise":"Bridge",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 4",
+        "Exercise":"Front Loaded Squat",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 4",
+        "Exercise":"Calf Raise",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 4",
+        "Exercise":"Alternate Side Lunge",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 4",
+        "Exercise":"Deadlift",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 4",
+        "Exercise":"Pulsing Squat",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 3",
+        "Day":"Day 4",
+        "Exercise":"Reverse Alternate Lunge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 1",
+        "Exercise":"Chest Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 1",
+        "Exercise":"Tricep Kickbacks",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 1",
+        "Exercise":"Tricep Skull Crushers",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 1",
+        "Exercise":"Rotating Chest Press",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 1",
+        "Exercise":"Chest Fly",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 1",
+        "Exercise":"Decline Press",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 1",
+        "Exercise":"Triceps Press",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 1",
+        "Exercise":"Single Side Crushers",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 2",
+        "Exercise":"Wide Row",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 2",
+        "Exercise":"Wide Curl",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 2",
+        "Exercise":"Reverse Fly",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 2",
+        "Exercise":"Full Curl",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 2",
+        "Exercise":"Traditional Row",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 2",
+        "Exercise":"Hammer Curl",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 2",
+        "Exercise":"Pullover",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 2",
+        "Exercise":"Top Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 2",
+        "Exercise":"Bottom Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 3",
+        "Exercise":"Lateral Raise",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 3",
+        "Exercise":"Front Raise",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Press",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Fly",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 3",
+        "Exercise":"Upright Row",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 3",
+        "Exercise":"Swimmers",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 3",
+        "Exercise":"Y Raise",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 4",
+        "Exercise":"Front Loaded Squat",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 4",
+        "Exercise":"Goblet Sumo",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 4",
+        "Exercise":"Deadlift",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 4",
+        "Exercise":"Calf Raise",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 4",
+        "Exercise":"Alternate Side Lunge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 4",
+        "Exercise":"Bridge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 4",
+        "Exercise":"Pulsing Squat",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 4",
+        "Day":"Day 4",
+        "Exercise":"Reverse Alternate Lunge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 1",
+        "Exercise":"Chest Fly",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 1",
+        "Exercise":"Triceps Press",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 1",
+        "Exercise":"Rotating Chest Press",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 1",
+        "Exercise":"Tricep Skull Crushers",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 1",
+        "Exercise":"Chest Press",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 1",
+        "Exercise":"Tricep Kickbacks",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 1",
+        "Exercise":"Decline Press",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 1",
+        "Exercise":"Single Side Crushers",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 2",
+        "Exercise":"Traditional Row",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 2",
+        "Exercise":"Bottom Curl",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 2",
+        "Exercise":"Reverse Fly",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 2",
+        "Exercise":"Top Curl",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 2",
+        "Exercise":"Pullover",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 2",
+        "Exercise":"Hammer Curl",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 2",
+        "Exercise":"Wide Row",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 2",
+        "Exercise":"Wide Curl",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 2",
+        "Exercise":"Full Curl",
+        "Sequence":"9C"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 3",
+        "Exercise":"Upright Row",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Press",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 3",
+        "Exercise":"Front Raise",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 3",
+        "Exercise":"Lateral Raise",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Fly",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 3",
+        "Exercise":"Y Raise",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 3",
+        "Exercise":"Swimmers",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 4",
+        "Exercise":"Front Loaded Squat",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 4",
+        "Exercise":"Calf Raise",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 4",
+        "Exercise":"Goblet Sumo",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 4",
+        "Exercise":"Reverse Alternate Lunge",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 4",
+        "Exercise":"Deadlift",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 4",
+        "Exercise":"Alternate Side Lunge",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 4",
+        "Exercise":"Bridge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 5",
+        "Day":"Day 4",
+        "Exercise":"Pulsing Squat",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 1",
+        "Exercise":"Rotating Chest Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 1",
+        "Exercise":"Tricep Skull Crushers",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 1",
+        "Exercise":"Chest Fly",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 1",
+        "Exercise":"Single Side Crushers",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 1",
+        "Exercise":"Chest Press",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 1",
+        "Exercise":"Triceps Press",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 1",
+        "Exercise":"Decline Press",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 1",
+        "Exercise":"Tricep Kickbacks",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 2",
+        "Exercise":"Traditional Row",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 2",
+        "Exercise":"Hammer Curl",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 2",
+        "Exercise":"Reverse Fly",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 2",
+        "Exercise":"Full Curl",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 2",
+        "Exercise":"Pullover",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 2",
+        "Exercise":"Wide Curl",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 2",
+        "Exercise":"Bottom Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 2",
+        "Exercise":"Top Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 2",
+        "Exercise":"Wide Row",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 3",
+        "Exercise":"Upright Row",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 3",
+        "Exercise":"Front Raise",
+        "Sequence":"3B"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 3",
+        "Exercise":"Lateral Raise",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 3",
+        "Exercise":"Y Raise",
+        "Sequence":"5C"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 3",
+        "Exercise":"Swimmers",
+        "Sequence":"6C"
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Fly",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 4",
+        "Exercise":"Front Loaded Squat",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 4",
+        "Exercise":"Calf Raise",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 4",
+        "Exercise":"Goblet Sumo",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 4",
+        "Exercise":"Reverse Alternate Lunge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 4",
+        "Exercise":"Deadlift",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 4",
+        "Exercise":"Alternate Side Lunge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 4",
+        "Exercise":"Bridge",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 6",
+        "Day":"Day 4",
+        "Exercise":"Pulsing Squat",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 1",
+        "Exercise":"Chest Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 1",
+        "Exercise":"Chest Fly",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 1",
+        "Exercise":"Traditional Row",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 1",
+        "Exercise":"Reverse Fly",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 1",
+        "Exercise":"Rotating Chest Press",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 1",
+        "Exercise":"Decline Press",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 1",
+        "Exercise":"Pullover",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 1",
+        "Exercise":"Wide Row",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 2",
+        "Exercise":"Front Loaded Squat",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 2",
+        "Exercise":"Deadlift",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 2",
+        "Exercise":"Calf Raise",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 2",
+        "Exercise":"Alternate Side Lunge",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 2",
+        "Exercise":"Pulsing Squat",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 2",
+        "Exercise":"Bridge",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 2",
+        "Exercise":"Goblet Sumo",
+        "Sequence":"7C"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 2",
+        "Exercise":"Reverse Alternate Lunge",
+        "Sequence":"8C"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 2",
+        "Exercise":"Triceps Press",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 3",
+        "Exercise":"Front Raise",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 3",
+        "Exercise":"Wide Curl",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 3",
+        "Exercise":"Lateral Raise",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 3",
+        "Exercise":"Tricep Kickbacks",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Press",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 3",
+        "Exercise":"Hammer Curl",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 3",
+        "Exercise":"Upright Row",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 4",
+        "Exercise":"Tricep Skull Crushers",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 4",
+        "Exercise":"Swimmers",
+        "Sequence":"9C"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 4",
+        "Exercise":"Full Curl",
+        "Sequence":"10C"
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 4",
+        "Exercise":"Single Side Crushers",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 4",
+        "Exercise":"Bottom Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 4",
+        "Exercise":"Top Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 4",
+        "Exercise":"Shoulder Fly",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 7",
+        "Day":"Day 4",
+        "Exercise":"Y Raise",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 1",
+        "Exercise":"Rotating Chest Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 1",
+        "Exercise":"Decline Press",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 1",
+        "Exercise":"Pullover",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 1",
+        "Exercise":"Wide Row",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 1",
+        "Exercise":"Chest Press",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 1",
+        "Exercise":"Chest Fly",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 1",
+        "Exercise":"Traditional Row",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 1",
+        "Exercise":"Reverse Fly",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 2",
+        "Exercise":"Alternate Side Lunge",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 2",
+        "Exercise":"Pulsing Squat",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 2",
+        "Exercise":"Bridge",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 2",
+        "Exercise":"Front Loaded Squat",
+        "Sequence":"4B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 2",
+        "Exercise":"Deadlift",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 2",
+        "Exercise":"Calf Raise",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 2",
+        "Exercise":"Goblet Sumo",
+        "Sequence":"7C"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 2",
+        "Exercise":"Reverse Alternate Lunge",
+        "Sequence":"8C"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 2",
+        "Exercise":"Triceps Press",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 3",
+        "Exercise":"Shoulder Press",
+        "Sequence":"1A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 3",
+        "Exercise":"Hammer Curl",
+        "Sequence":"2A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 3",
+        "Exercise":"Upright Row",
+        "Sequence":"3A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 3",
+        "Exercise":"Tricep Skull Crushers",
+        "Sequence":"4A"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 3",
+        "Exercise":"Front Raise",
+        "Sequence":"5B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 3",
+        "Exercise":"Wide Curl",
+        "Sequence":"6B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 3",
+        "Exercise":"Lateral Raise",
+        "Sequence":"7B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 4",
+        "Exercise":"Tricep Kickbacks",
+        "Sequence":"8B"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 4",
+        "Exercise":"Swimmers",
+        "Sequence":"9C"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 4",
+        "Exercise":"Full Curl",
+        "Sequence":"10C"
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 4",
+        "Exercise":"Single Side Crushers",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 4",
+        "Exercise":"Bottom Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 4",
+        "Exercise":"Top Curl",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 4",
+        "Exercise":"Shoulder Fly",
+        "Sequence":null
+    },
+    {
+        "Week":"Week 8",
+        "Day":"Day 4",
+        "Exercise":"Y Raise",
+        "Sequence":null
+    }
+]

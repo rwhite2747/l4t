@@ -6,6 +6,7 @@ import LogWorkout from "./pages/LogWorkout";
 import History from "./pages/History";
 import Progress from "./pages/Progress";
 import workoutSchedule from "./data/workoutSchedule";
+import WorkoutSchedule from "./components/WorkoutSchedule";
 
 function App() {
   const [schedule, setSchedule] = useState([]);
@@ -25,6 +26,7 @@ function App() {
           <Route path="/log" element={<LogWorkout />} />
           <Route path="/history" element={<History />} />
           <Route path="/progress" element={<Progress />} />
+          <Route path="/schedule" element={<WorkoutSchedule />} />
         </Routes>
       </Container>
     </Router>
